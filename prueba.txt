@@ -4,6 +4,7 @@ prueba824
 jnsdfk
 kgdsjksf
 mdslfngf
+
 mnasdlfnasd
 kjfsdlkfj
 sdf
@@ -13,3 +14,4 @@ santiagopruebamerge
 pruebadelmerge
 veremos que pasa
 santiagopruebamerge
+resolvimos el conflicto y vemos como queda
